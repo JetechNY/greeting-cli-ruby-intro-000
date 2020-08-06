@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
-sudo chmod +x <greeting>
+sudo chmod +x bin/greet
 # code your CLI here!
