@@ -1,4 +1,5 @@
 # code the #greeting method here!
+#!/usr/bin/env ruby
 
 def greeting(name)
 puts "Hi! I'm HAL, what's your name?"
